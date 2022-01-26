@@ -126,3 +126,4 @@ workflows:
       - destroy_aws_ecs:
           requires:
             - approve_destroy
+
